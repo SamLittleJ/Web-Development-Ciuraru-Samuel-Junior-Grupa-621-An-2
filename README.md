@@ -1,2 +1,2 @@
-# Web Development Ciuraru Samuel Junior Grupa 621 An 2
- 
+# The beginning of the class project, just here to see the changes i make
+
